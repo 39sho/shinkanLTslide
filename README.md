@@ -1,1 +1,1 @@
-(slide link)[https://39sho.github.io/shinkanLTslide/slide]
+[slide link](https://39sho.github.io/shinkanLTslide/slide)
